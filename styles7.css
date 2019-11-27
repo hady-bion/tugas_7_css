@@ -1,0 +1,22 @@
+body{
+    background-image: url("./gmb/Borobudur.jpg");
+    background-size: cover;
+}
+
+div{
+    background-image: url("./gmb/avocado.jpg");
+    color: blue;
+    margin: auto;
+    border: 2px solid red;
+    width: 690px; 
+    height: 500px;
+}
+.justify{
+    background-position: center center;
+    text-align: justify;
+}
+
+.repeat{
+    background-repeat: repeat-x;
+    background-position: top top;
+}
